@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "title": "Helado 1",
+        "description": "Helado de 1 sabor",
+        "price": 3300,
+        "category": "2",
+        "stock": 7,
+        "code": 123,
+        "status": true
+    },
+    {
+        "id": 2,
+        "title": "Helado 2",
+        "description": "Helado de 2 sabores",
+        "price": 20000,
+        "category": "2",
+        "stock": 15,
+        "code": 123,
+        "status": true
+    },
+    {
+        "id": 3,
+        "title": "Helado 3",
+        "description": "Helado de 3 sabores",
+        "price": 698,
+        "category": "2",
+        "stock": 3,
+        "code": 123,
+        "status": true
+    },
+    {
+        "id": 4,
+        "title": "Helado 4",
+        "description": "Helado de 4 sabores",
+        "price": 1330,
+        "category": "2",
+        "stock": 25,
+        "code": 123,
+        "status": true
+    },
+    {
+        "id": 5,
+        "title": "Helado 5",
+        "description": "Helado de 5 sabores",
+        "price": 1699,
+        "category": "2",
+        "stock": 12,
+        "code": 123,
+        "status": true
+    },
+    {
+        "id": 6,
+        "title": "Helado 6",
+        "description": "Helado de 6 sabores",
+        "price": 1800,
+        "category": "2",
+        "stock": 30,
+        "code": 123,
+        "status": true
+    },
+    {
+        "id": 7,
+        "title": "Helado 7",
+        "description": "Helado de 7 sabores",
+        "price": 4500,
+        "category": "2",
+        "stock": 2,
+        "code": 123,
+        "status": true
+    },
+    {
+        "id": 8,
+        "title": "Helado 8",
+        "description": "Helado de 8 sabores",
+        "price": 26900,
+        "category": "2",
+        "stock": 1,
+        "code": 123,
+        "status": true
+    },
+    {
+        "id": 9,
+        "title": "Helado 9",
+        "description": "Helado de 9 sabores",
+        "price": 2200,
+        "category": "2",
+        "stock": 8,
+        "code": 123,
+        "status": true
+    },
+    {
+        "id": 10,
+        "title": "Helado 10",
+        "description": "Helado de 10 sabores",
+        "price": 10000,
+        "category": "2",
+        "stock": 10,
+        "code": 123,
+        "status": true
+    }
+]

@@ -1,0 +1,48 @@
+<main>
+  <h2 class = "text-center">REAL TIME PRODUCTS</h2>
+
+  <div class="d-flex justify-content-center text-aling-center border">
+    <div class="border py-3 px-5 my-4 border border-primary rounded bg-info">
+    <form id="form">
+      <div class="mb-3">
+        <label for="title" class="form-label">Product:</label>
+        <input type="text" name="title" class="form-control" id="title"/>
+      </div>
+
+      <div class="mb-3">
+        <label for="description" class="form-label">Description:</label>
+        <input type="text" name="description" class="form-control" id="description" />
+      </div>
+
+      <div class="mb-3">
+        <label for="price" class="form-label">Price:</label>
+        <input type="text" name="price" class="form-control" id="price" />
+      </div>
+
+      <div class="mb-3">
+        <label for="category" class="form-label">Category:</label>
+        <input type="text" name="category" class="form-control" id="category" />
+      </div>
+
+      <div class="mb-3">
+        <label for="stock" class="form-label">Stock:</label>
+        <input type="text" name="stock" class="form-control" id="stock" />
+      </div>
+
+      <div class="mb-3">
+        <label for="code" class="form-label">Code:</label>
+        <input type="text" name="code" class="form-control" id="code" />
+      </div>
+
+      <div>
+     <input type="submit" value="SEND" class="btn btn-primary"/>
+      </div>
+    </form>
+    </div>
+  </div>
+<div class = "text-center">  <p id="products"></p>
+</div>
+
+</main>
+<script src="/socket.io/socket.io.js"></script>
+<script src="/js/index.js"></script>
